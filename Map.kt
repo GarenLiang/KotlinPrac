@@ -1,5 +1,4 @@
-import java.util.*
-
+import java.util. 
 fun main(args : Array<String>) {
 //    var nums = listOf(1,2,3,4)
 //
